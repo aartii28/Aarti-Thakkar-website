@@ -1,10 +1,10 @@
 ![Aarti Thakkar](at_banner2.png)
 
-# aarti-thakkar-website
+# Aarti Thakkar
 
 > *"The best insights often come from a simple cup of coffee and a curious mind."*
 
-**🔗 Live:** [aarti.fun](www.aarti.fun)
+**🔗 Live:** [aarti.fun]([www.aarti.fun](https://www.aarti.fun/))
 
 ---
 
