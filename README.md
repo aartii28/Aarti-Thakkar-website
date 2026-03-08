@@ -4,7 +4,7 @@
 
 > *"The best insights often come from a simple cup of coffee and a curious mind."*
 
-**🔗 Live:** [aarti-thakkar-website.vercel.app](https://aarti-thakkar-website.vercel.app)
+**🔗 Live:** [aarti.fun](www.aarti.fun)
 
 ---
 
@@ -40,44 +40,6 @@ Not essays — conversation starters. Reflections at the intersection of analyti
 ### 📬 Get in Touch
 - **Email:** aartithakker1228@gmail.com
 - **LinkedIn:** [linkedin.com/in/aarti-thakkar](https://linkedin.com/in/aarti-thakkar/)
-
----
-
-## Tech Stack
-
-| Layer | What |
-|-------|------|
-| Framework | Vite + TypeScript |
-| Template | Google AI Studio repository template |
-| Hosting | Vercel — auto-deploys on every push to `main` |
-| Theme | Coffee-inspired warm palette |
-
----
-
-## Run Locally
-
-```bash
-# Install dependencies
-npm install
-
-# Start dev server
-npm run dev
-
-# Build for production
-npm run build
-```
-
----
-
-## Deployment
-
-Connected to **Vercel**. Every push to `main` auto-builds and deploys.
-
-```
-git push origin main → Vercel builds → Live in ~30 seconds
-```
-
----
 
 ## Other Projects
 
