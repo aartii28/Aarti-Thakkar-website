@@ -4,7 +4,7 @@
 
 > *"The best insights often come from a simple cup of coffee and a curious mind."*
 
-**🔗 Live:** [aarti.fun]([www.aarti.fun](https://www.aarti.fun/))
+**🔗 Live:** [aarti.fun](https://www.aarti.fun/)
 
 ---
 
